@@ -1,2 +1,3 @@
 # emotion_recognition_cnn
-Implement an CNN for Emotion Recognition of the six basic Emotions
+
+The Notebook implements a basic machine learning pipeline for training an cnn at emotion recognition.
